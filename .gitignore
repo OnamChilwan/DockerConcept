@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+/*/bin/*
+/*/obj/*
+/_ReSharper.Caches/*
+/.idea/.idea.AWS/.idea/codeStyles/codeStyleConfig.xml
+/.idea/.idea.AWS/.idea/contentModel.xml
+/.idea/.idea.AWS/.idea/encodings.xml
+/.idea/.idea.AWS/.idea/indexLayout.xml
+/AWS.sln.DotSettings.user
+/.idea/.idea.AWS/.idea/modules.xml
+/.idea/.idea.AWS/.idea/projectSettingsUpdater.xml
+/.idea/.idea.AWS/riderModule.iml
+/.idea/.idea.AWS/.idea/vcs.xml
+/.idea/.idea.AWS/.idea/workspace.xml
+/MyApi/site/*
